@@ -1,3 +1,4 @@
 data/*
 mnist_cnn.pt
 runs/*
+.ipynb_checkpoints/*

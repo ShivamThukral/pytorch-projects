@@ -9,7 +9,7 @@ This repository has PyTorch tutorials on:
 - [ResNet18](https://github.com/ShivamThukral/pytorch-projects/blob/devel/classification/05-ResNet.ipynb): Implementation of Resnet18 from scratch with CIFAR10 dataset. 
 
 ## Object Detection
-TODO
+- [YOLO](https://github.com/ShivamThukral/pytorch-projects/blob/devel/detection/06-Yolo.ipynb) : Implementation of YOLO with the Pascal VOC dataset using transfer learning.
 
 ## Semantic Segmentation
 TODO

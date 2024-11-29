@@ -1,4 +1,6 @@
 classification/models/*
+detection/data/*
+detection/checkpoints_yolo/*
 mnist_cnn.pt
 runs/*
 .ipynb_checkpoints/*

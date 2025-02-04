@@ -13,7 +13,7 @@ This repository has PyTorch tutorials on:
 - [YOLO](https://github.com/ShivamThukral/pytorch-projects/blob/devel/detection/06-Yolo.ipynb) : Implementation of YOLO with the Pascal VOC dataset using transfer learning.
 
 ## Semantic Segmentation
-TODO
+- [UNet](https://github.com/ShivamThukral/pytorch-projects/blob/devel/segmentation/07-Unet.ipynb) : Implementation of UNet architecture, trained on Oxford IIIT Pet dataset
 
 ## Instance Segmentation
 TODO

@@ -18,3 +18,6 @@ This repository has PyTorch tutorials on:
 ## Instance Segmentation
 TODO
 
+## Miscellaneous
+ - [Conditional GANs](https://github.com/ShivamThukral/pytorch-projects/blob/devel/miscellaneous/08-ConditionalGANs.ipynb) GANs consist of two neural networks—the generator and the discriminator—which are trained together in a competitive setting. The models are trained on Celeb dataset. 
+

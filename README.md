@@ -21,3 +21,4 @@ TODO
 ## Miscellaneous
  - [Conditional GANs](https://github.com/ShivamThukral/pytorch-projects/blob/devel/miscellaneous/08-ConditionalGANs.ipynb) GANs consist of two neural networks—the generator and the discriminator—which are trained together in a competitive setting. The models are trained on Celeb dataset. 
  - [CLIP](https://github.com/ShivamThukral/pytorch-projects/blob/devel/miscellaneous/09-CLIP-Classification.ipynb)  A multimodal model by OpenAI that learns visual concepts from natural language supervision, enabling it to understand and relate images and text efficiently.  
+ - [DDPM](https://github.com/ShivamThukral/pytorch-projects/blob/devel/miscellaneous/10-Diffusion-Models.ipynb) are generative models that learn to transform Gaussian noise into data samples by iteratively denoising through a Markovian diffusion process. The model is trained on CIFAR10.
